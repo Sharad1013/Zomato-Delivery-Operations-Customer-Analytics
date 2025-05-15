@@ -125,7 +125,7 @@
 - Top payment methods and preferred cuisines
 
 
-✅ Module 5: Excel Dashboard
+### ✅ Module 5: Excel Dashboard
 Objective: Showcase your ability to build dashboards in Excel.
 
 Steps:
@@ -144,7 +144,7 @@ Steps:
     </ul>
 </ol>
 
-✅ Module 6: Power BI Dashboard (Optional for Later)
+### ✅ Module 6: Power BI Dashboard (Optional for Later)
 Objective: Create an interactive business dashboard for storytelling.
 
 Sections to build:
@@ -155,7 +155,7 @@ Sections to build:
     <li>Filters: city, status, date range</li>
 </ol>
 
-✅ Module 7: SQL Use (Optional, if you create a database from this)
+### ✅ Module 7: SQL Use (Optional, if you create a database from this)
 <ol>
     <li>If you upload this dataset to a local SQL database (like MySQL, PostgreSQL, or SQLite), you can practice:
     </li>
@@ -165,7 +165,7 @@ Sections to build:
     <li>Joining customer and restaurant tables (if split)</li>
 </ol>
 
-✅ Module 8: Final Report & Resume Summary
+### ✅ Module 8: Final Report & Resume Summary
 Objective: Summarize insights and prepare a resume bullet.
 
 What to include:
