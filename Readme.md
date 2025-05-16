@@ -2,7 +2,7 @@
 <h1>Analyze food delivery data to extract business insights on customer behavior, restaurant performance, delivery efficiency, and promotional effectiveness — and present this via Python visualizations, Excel dashboard, and Power BI (optional/advanced).</h1>
 
 
-# 🍽️ Swiggy-style Food Delivery Data Analysis Project
+# 🍽️ Zomato-style Food Delivery Data Analysis Project
 
 ## 📦 Dataset Structure Overview
 
