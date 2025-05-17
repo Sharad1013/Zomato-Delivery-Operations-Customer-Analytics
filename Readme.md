@@ -162,7 +162,7 @@ Sections to build:
         <li>Grouping and filtering orders by time</li>
     <li>Finding top-rated restaurants</li>
     <li>Calculating average order value per city</li>
-    <li>Joining customer and restaurant tables (if split)</li>
+    <!-- <li>Joining customer and restaurant tables (if split)</li> -->
 </ol>
 
 ### ✅ Module 8: Final Report & Resume Summary
