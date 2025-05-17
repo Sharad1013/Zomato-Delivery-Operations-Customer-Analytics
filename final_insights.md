@@ -6,6 +6,15 @@ This analysis explored user behavior, restaurant performance, and delivery logis
 
 ---
 
+### 📌 Key Metrics Analyzed:
+---
+- 12,000+ orders across 76 cities
+- Continuous rating scale and multiple cuisine types per restaurant
+- Multiple payment methods and delivery tracking
+- 30+ business KPIs visualized
+
+---
+
 ## 1️⃣ Customer Behavior Insights
 
 - 💡 **Tip Trends**: Tips peak on **Fridays** and **Mondays**.  
@@ -67,7 +76,7 @@ This analysis explored user behavior, restaurant performance, and delivery logis
 
   ![Power BI Dashboard](Dashboards/Zomato_Business_Insights_bi.png)
 
-These dashboards enabled real-time slicing of data by day, restaurant type, and order characteristics, supporting more granular business decisions.
+These dashboards enabled real-time slicing of data by day, promo code usage, and order characteristics, supporting more granular business decisions.
 
 ---
 
@@ -88,3 +97,7 @@ This project converted raw data into strategic insights by combining:
 
 🔍 **Tools Used**: Python, Pandas, MySQL, Excel, Power BI    
 
+## 🔄 Next Steps
+- Integrate external data (weather, traffic) to refine delivery time analysis
+- Predict tip likelihood using logistic regression
+- Build a real-time dashboard with live delivery data streams
