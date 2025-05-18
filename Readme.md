@@ -117,8 +117,3 @@ This project provides actionable insights for a Swiggy-style platform to improve
 - 📄 [View Final Business Insights Report](final_insights.md)
 
 ---
-
-## 💼 Resume Line
-
-```text
-Performed end-to-end analysis on a real-world food delivery dataset using Python, SQL, Excel, and visualization tools to derive insights on customer behavior, delivery efficiency, and restaurant performance; built interactive dashboards to guide business decisions.
