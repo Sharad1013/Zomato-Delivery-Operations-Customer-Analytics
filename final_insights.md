@@ -6,12 +6,48 @@ This analysis explored user behavior, restaurant performance, and delivery logis
 
 ---
 
-### 📌 Key Metrics Analyzed:
+## 📦 Dataset Source
+- The dataset was sourced from [Kaggle / zomato-dataset]. It mimics real-world food delivery platforms like Zomato and Swiggy.
+
 ---
-- 12,000+ orders across 76 cities
-- Continuous rating scale and multiple cuisine types per restaurant
-- Multiple payment methods and delivery tracking
-- 30+ business KPIs visualized
+
+## ⚙️ Technical Summary
+
+### Tools & Technologies Used:
+- **Python (Pandas, NumPy, Seaborn, Matplotlib)** for data cleaning and EDA
+- **Excel** for initial analysis and dashboard building
+- **Power BI** for advanced interactive dashboard
+
+### Python Techniques Applied:
+- `groupby()` for aggregation (e.g., average delivery time per cuisine)
+- `merge()` to join customer, order, and delivery tables
+- Correlation analysis for delivery time vs distance
+- Outlier detection & handling
+- Time series analysis on order timestamps
+
+
+## 📊 Key KPIs & Metrics Tracked
+
+- Analyzed **12,000+ orders** across **76 cities**
+- Covered **continuous rating scale**, **multiple cuisine types**, and **diverse payment methods**
+- Tracked **delivery distance**, **delivery time**, and **tips**
+- Over **30 business KPIs visualized** using Excel and Power BI
+
+### 📌 Primary KPIs
+
+| KPI | Description |
+|-----|-------------|
+| Avg Delivery Time | To understand delivery efficiency |
+| Tip Percentage | To measure customer satisfaction |
+| Order Volume by Cuisine | To find popular categories |
+| Ratings per Restaurant Type | To measure quality trends |
+| Promo Code Usage vs Orders | To evaluate marketing effectiveness |
+
+
+## 🔄 User Journey Mapping
+---
+
+Customer → Places Order → Restaurant Prepares → Delivery Agent Picks → Delivery → Customer Tips & Rates
 
 ---
 
