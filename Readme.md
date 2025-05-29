@@ -106,7 +106,7 @@ If data is stored in SQL:
 ---
 
 ## 📈 Outcome
-This project provides actionable insights for a Swiggy-style platform to improve customer experience, optimize delivery operations, and boost marketing performance.
+This project provides actionable insights for Zomato to improve customer experience, optimize delivery operations, and boost marketing performance.
 
 ---
 
